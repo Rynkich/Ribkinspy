@@ -6,7 +6,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 from dotenv import load_dotenv
 import os
 
-load_dotenv 
+load_dotenv ()
 TOKEN = "os.getenv('TOKEN'))"
 BOT_NAME = "🐟 Рыбкинс"
 

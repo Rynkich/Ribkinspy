@@ -1,1 +1,1 @@
-# Ribkinspy
+git rm
